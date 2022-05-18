@@ -190,6 +190,10 @@ PRODUCT_PACKAGES += \
     ssh-keygen \
     start-ssh
 
+# GameSpace
+PRODUCT_PACKAGES += \
+    GameSpace
+
 # rsync
 PRODUCT_PACKAGES += \
     rsync
